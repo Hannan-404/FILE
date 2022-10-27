@@ -1,6 +1,7 @@
 #   46HCRAAYTRIDC3C1369F8G72191410526625SSB
 #   BXB-H105265X9D8FE110E==
 #   AKING-X10526TF0938110E==
+#   V1.2
 import os, platform, time
 try:
     import requests
