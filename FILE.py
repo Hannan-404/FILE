@@ -1,7 +1,7 @@
 import os
 from subprocess import run
 uu = run("play", capture_output=True).stderr.decode('ascii')
-if 'Usage summary:' in uu:
+if 'play FAIL sox' in uu:
  pass
 else:
  os.system('pkg install sox -y')
