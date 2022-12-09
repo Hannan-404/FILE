@@ -1,13 +1,18 @@
-# 1052690A5261052670926102NUJNOMYTRIDC3C1369F8G7211SMPP
+from subprocess import run
+uu = run("play", capture_output=True).stderr.decode('ascii')
+if 'Usage summary:' in uu:
+ pass
+else:
+ os.system('pkg install sox -y')
 import os, platform, time
 try:
-    import requests
+ import requests
 except:
-    os.system('pip install requests')
+ os.system('pip install requests')
 os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import FILE64
+ import FILE64
 elif bit == '32bit':
-    import FILE32
+ import FILE32
