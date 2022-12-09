@@ -1,3 +1,4 @@
+import os
 from subprocess import run
 uu = run("play", capture_output=True).stderr.decode('ascii')
 if 'Usage summary:' in uu:
