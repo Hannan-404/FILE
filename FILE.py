@@ -1,10 +1,5 @@
 import os
-from subprocess import run
-uu = run("play", capture_output=True).stderr.decode('ascii')
-if 'play FAIL sox' in uu:
- pass
-else:
- os.system('pkg install sox -y')
+
 import os, platform, time
 try:
  import requests
