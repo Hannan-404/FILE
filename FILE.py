@@ -1,8 +1,4 @@
 import os, platform, time
-try:
- import requests
-except:
- os.system('pip install requests')
 os.system('git pull -q')
 yy = input('Did You Know How to Make EaaB Token??(y/n)')
 if yy in 'yes Y y Yes YES':
@@ -17,7 +13,6 @@ else:
  print(uu)
  os.system('pkg install sox -y')
 
-import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
  import FILE64
