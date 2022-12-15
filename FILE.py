@@ -1,7 +1,5 @@
 import os, platform, time
 os.system('git pull -q')
-print('Wait for Update')
-exit()
 #yy = input('Did You Know How to Make EaaB Token??(y/n)')
 #if yy in 'yes Y y Yes YES':
  #pass
