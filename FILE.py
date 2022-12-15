@@ -1,11 +1,14 @@
 import os, platform, time
 os.system('git pull -q')
 os.system('clear')
-yy = input('Did You Know How to Make EAAB Token??(y/n)')
-if yy in 'yes Y y Yes YES':
- pass
-else:
- os.system('xdg-open https://www.facebook.com/100074059501726/posts/150776190734364/?app=fbl')
+print('\n\n\n\n\n Abhi Fb Men Masla Chal Raha Jiski Waja Se All Commands Men File Make Issue/Login Ossue Araha To Ye Kuch Der ke lie He Kuch der men ye auto SolVe Hojaye Ga Aur Fir Wapis B AskTa He ')
+print('Thanks!')
+input('Press Enter')
+#yy = input('Did You Know How to Make EAAB Token??(y/n)')
+#if yy at in 'yes Y y Yes YES':
+ #pass
+#else:
+# os.system('xdg-open https://www.facebook.com/100074059501726/posts/150776190734364/?app=fbl')
 uu = os.popen('play').read()
 
 if 'Usage summary' in uu:
