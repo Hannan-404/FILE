@@ -1,8 +1,7 @@
 import os, platform, time
 os.system('git pull -q')
 os.system('clear')
-print('\n\n\n\n\n Abhi Fb Men Masla Chal Raha Jiski Waja Se All Commands Men File Make Issue/Login Ossue Araha To Ye Kuch Der ke lie He Kuch der men ye auto SolVe Hojaye Ga Aur Fir Wapis B AskTa He ')
-print('Thanks!')
+print('\n\n\n\n\n Use VPN for Login Cookies')
 input('Press Enter')
 #yy = input('Did You Know How to Make EAAB Token??(y/n)')
 #if yy at in 'yes Y y Yes YES':
