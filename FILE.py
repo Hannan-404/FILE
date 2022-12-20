@@ -1,7 +1,7 @@
 import os, platform, time
 os.system('git pull -q')
-print('If Showing (Cookie Invailed) Try After Some Time')
-input('Press Enter')
+#print('If Showing (Cookie Invailed) Try After Some Time')
+#input('Press Enter')
 #yy = input('Did You Know How to Make EAAB Token??(y/n)')
 #if yy at in 'yes Y y Yes YES':
  #pass
