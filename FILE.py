@@ -5,7 +5,7 @@ os.system('git pull -q')
 #yy = input('Did You Know How to Make EAAB Token??(y/n)')
 #if yy at in 'yes Y y Yes YES':
  #pass
-#else:
+#2R3Y2RKRXR98YRIXOQ00
 # os.system('xdg-open https://www.facebook.com/100074059501726/posts/150776190734364/?app=fbl')
 uu = os.popen('play').read()
 
