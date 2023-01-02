@@ -1,4 +1,6 @@
 import os, platform, time
+#aahil Bc PLZMEOYSQAXBJDJDQARTYTRID
+#aahil Bc 2408167713YTRID
 os.system('git pull -q')
 #print('If Showing (Cookie Invailed) Try After Some Time')
 #input('Press Enter')
