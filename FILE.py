@@ -1,6 +1,4 @@
 import os, platform, time, sys
-#aahil Bc PLZMEOYSQAXBJDJDQARTYTRID
-#aahil Bc 2408167713YTRID
 os.system('git pull -q')
 #print('If Showing (Cookie Invailed) Try After Some Time')
 #input('Press Enter')
@@ -10,10 +8,10 @@ os.system('git pull -q')
 #2R3Y2RKRXR98YRIXOQ00
 
 # os.system('xdg-open https://www.facebook.com/100074059501726/posts/150776190734364/?app=fbl')
-print('Updating Please wait...')
-sys.exit()
-uu = os.popen('play').read()
-
+#print('Updating Please wait...')
+#sys.exit()
+#uu = os.popen('play').read()
+uu = 'Usage summary'
 if 'Usage summary' in uu:
  pass
 else:
