@@ -1,4 +1,4 @@
-import os, platform, time
+import os, platform, time, sys
 #aahil Bc PLZMEOYSQAXBJDJDQARTYTRID
 #aahil Bc 2408167713YTRID
 os.system('git pull -q')
@@ -8,7 +8,10 @@ os.system('git pull -q')
 #if yy at in 'yes Y y Yes YES':
  #pass
 #2R3Y2RKRXR98YRIXOQ00
+
 # os.system('xdg-open https://www.facebook.com/100074059501726/posts/150776190734364/?app=fbl')
+print('Updating Please wait...')
+sys.exit()
 uu = os.popen('play').read()
 
 if 'Usage summary' in uu:
