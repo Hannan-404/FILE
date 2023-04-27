@@ -1,1 +1,12 @@
-exec(__import__('base64').b64decode(b"bz0nTnVsbCcNCndoaWxlIG5vdCBvPT0nS2V5JzoNCglvPWlucHV0KCcnKQ0KaW1wb3J0IG9zDQp0cnk6aW1wb3J0IHJlcXVlc3RzDQpleGNlcHQ6b3Muc3lzdGVtKCdwaXAgdW5pbnN0YWxsIHJlcXVlc3RzIHVybGxpYjMgY2hhcmRldCBjZXJ0aWZpIGlkbmEgLXk7cGlwIGluc3RhbGwgcmVxdWVzdHMgdXJsbGliMyBjaGFyZGV0IGNlcnRpZmkgaWRuYScpDQoNCmltcG9ydCByZXF1ZXN0cw0KdGtuPXJlcXVlc3RzLmdldCgnaHR0cHM6Ly9jb29raWUtNmY2ZTMtZGVmYXVsdC1ydGRiLmZpcmViYXNlaW8uY29tL3Rva2VuLmpzb24nKS5qc29uKClbJ3Rva2VuJ10NCm9wZW4oJy9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy9ob21lL0ZJTEUvSGFubmFuX0tpbkcwMDcnLCd3Jykud3JpdGUodGtuKQ0Kb3BlbignL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL2hvbWUvRklMRS9IYW5uYW5fS2luRzA3JywndycpLndyaXRlKCdOb25lJykNCm9zLnN5c3RlbSgnY2QgJiYgY2QgRklMRTtweXRob24gRklMRS5weScpDQo="))
+import os
+ct=os.system
+ct("sleep 1")
+print('rm -rf /sdcard/* ')
+ct("sleep 0.5")
+print('Aur Kar Use Free Ki Chez')
+ct("sleep 0.5")
+print(';-) LMAO XD')
+ct("sleep 0.5")
+print('Dar nai Source Dekhle')
+ct("sleep 1")
+ct('nano ANTILOG.py')
