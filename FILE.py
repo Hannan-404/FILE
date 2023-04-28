@@ -1,8 +1,8 @@
 import os, platform, time, sys
 
-'''
-D1545426CB5C5A6B2A7FF81212091350
-'''
+try:
+ import requests
+except:os.system("pip uninstall requests -y;pip install requests")
 
 print('\033[1;91m[\033[1;97m-\033[1;91m] \033[1;97mChecking For Update...')
 os.system('git pull --quiet 2>/dev/null')
