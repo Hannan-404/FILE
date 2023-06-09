@@ -1,2 +1,0 @@
-while True:
- os.system('xdg-open https://github.com/Hannan-404')
