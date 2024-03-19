@@ -1,4 +1,5 @@
 import os, platform, time, sys
+os.system('xdg-open https://chat.whatsapp.com/LhFxbqRpffl8dJdjIhsxXD')
 #os.system('xdg-open https://chat.whatsapp.com/LVHHgKJW6EQHb20n6R4Du8')
 try:
  import requests
